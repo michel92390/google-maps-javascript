@@ -13,23 +13,51 @@ body {
 .title {
     position: absolute;
     z-index: 100;
-    font-size: 88px;
-    font-weight: bold;
-    top: 11%;
-    left: 7%;
+    font-size: 85px;
+    font-weight: bolder;
+    top: 8%;
+    left: 4%;
     color: #fff;
-    font-family: fantasy;
+    opacity: 0.7;
+    font-family: 'Courier New';
+    text-transform: uppercase;
+}
+
+.subtitle {
+    position: absolute;
+    z-index: 100;
+    font-size: 60px;
+    font-weight: bolder;
+    top: 16%;
+    left: 4%;
+    color: #fff;
+    opacity: .7;
+    font-family: 'Courier New';
+    text-transform: uppercase;
+}
+
+.sub-subtitle {
+    position: absolute;
+    z-index: 100;
+    font-size: 40px;
+    font-weight: bolder;
+    top: 22%;
+    left: 4%;
+    color: #fff;
+    opacity: .7;
+    font-family: 'Courier New';
     text-transform: uppercase;
 }
 
 .search-container {
     position: absolute;
     z-index: 100;
-    top: 25%;
-    left: 7%;
-    width: 27%;
+    top: 27%;
+    left: 4%;
+    width: 23%;
     height: 6%;
-    background-color: rgb(253, 116, 25);
+    border: 1px solid white;
+    background: rgb(0, 0, 0, 0.8);
     border-radius: 30px;
     display: flex;
 }
@@ -55,18 +83,19 @@ body {
 }
 
 .search i {
-    font-size: 25px;
+    font-size: 20px;
     color: #fff;
 
 }  
 
 .stores-list-container {
-    width: 27%;
+    width: 23%;
     position: absolute;
     z-index: 100;
-    background: rgb(253, 116, 25);
-    left: 7%;
+    background: rgb(0, 0, 0, 0.8);
+    left: 4%;
     top: 35%;
+    border: 1px solid white;
     border-radius: 20px;
     bottom: 3%;
     display: flex;
@@ -82,15 +111,16 @@ body {
 }
 
 .store-address {
-    font-size: 21px;
+    font-size: 17px;
     color: #fff;
     margin-top: 30px;
 }
 
 .store-phone-number {
-    color: rgb(33, 34, 34);
+    color: rgb(29, 243, 243);
     margin-top: 15px;
     margin-bottom: 15px;
+    font-size: 15px;
 }
 
 .store-address span {
@@ -127,29 +157,29 @@ body {
     padding-right: 20px;
 }
 ::-webkit-scrollbar {
-    width: 15px;
-    height: 100%;
+    width: 10px;
+    height: 50%;
   }
   
   /* Track */
-  ::-webkit-scrollbar-track {
+  /* ::-webkit-scrollbar-track {
     box-shadow: inset 0 0 5px white; 
     border-radius: 10px;
-  }
+  } */
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgb(240, 147, 85); 
+    background: rgb(170, 154, 143); 
     border-radius: 10px;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: rgb(240, 218, 204); 
+    background: rgb(102, 90, 83); 
   }
 #iw-container {
     margin-bottom: 10px;
-    background-color: rgb(243, 112, 24);
+    background-color: rgb(29, 75, 97, 0.6);
     padding: 20px 10px;
     border-radius: 10px;
 
@@ -159,8 +189,9 @@ body {
 	font-size: 20px;
 	font-weight: 200;
 	padding: 10px;
-	background-color: rgb(172, 43, 43);
-	color: white;
+	background-color: rgb(255,255,255,0.8);
+    color: black;
+    text-align: center;
 	margin: 0;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -172,9 +203,9 @@ body {
 }
 
 .name {
-    color: black;
+    color: rgb(29, 243, 243);
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .search i {
@@ -194,5 +225,6 @@ body {
 }
 
 .store-container-background:hover {
-    background-color: rgb(240, 147, 85);
+    background-color: rgb(138, 128, 128, 0.5);
 }
+
