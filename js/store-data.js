@@ -1,343 +1,402 @@
 let stores = 
 [
-    
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "link": "https://www.lego.com/en-gb",
-    "name": "LEGO Shop",
-    "image": "images/legostore.jpg",
-    "phoneNumber": "0121 634 3942",
-    "coordinates": {
-        "latitude":52.485007, 
-        "longitude": -1.917919  
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "LEGOLAND Discovery Centre",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B11BD"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "LEGO Shop",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 12:00 PM",
-    "addressLines": ["LEGOLAND Discovery Centre", "Birmingham B11BD"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-}, 
+    {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "1604",
+            "death": "306",
+            "name": "Birmingham City Hospital",
+            "link": "http://www.swbh.nhs.uk/contact-locations/find-us/birmingham-city-hospital/",
+            "image": "images/birmingham.jpg",
+            "phoneNumber": "0121 553 1831",
+            "coordinates": {
+                "latitude":52.489471,
+                "longitude":   -1.898575
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Dudley Rd",
+                "city": "birmingham",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Birmingham City Hospital",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Dudley Rd", "Birmingham B18 7QH"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "name": "The Fragrance Shop",
-    "image": "images/fragrance.jpg",
-    "link": "https://stores.thefragranceshop.co.uk/bull_ring_2/71/",
-    "phoneNumber": "0121 633 9991",
-    "coordinates": {
-        "latitude":52.479396,  
-        "longitude": -1.892795
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "Bull Ring 2",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B54BU"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "The Fragrance Shop",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 10:00 PM",
-    "addressLines": ["Bull Ring 2, SU530", "Birmingham THE BULL RING B54BU"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-}, 
-    
-{
-    "recommendation": {},
-    "storeNumber": "5758-13907",
-    "id": "15051",
-    "image": "images/convenianceShop.jpg",
-    "name": "D&s convenience shop",
-    "phoneNumber": "0121 792 6135",
-    "coordinates": {
-        "latitude": 52.496385, 
-        "longitude": -1.913389
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "229 New John St W.",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B193UA"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "D&s convenience shop",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 5:00 PM",
-    "addressLines": ["229 New John St W.", "Birmingham B193UA"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    "slug": "la-cienega-gregory-way-257-s-la-cienega-blvd-beverly-hills-ca-902113301-u"
-},
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "335",
+            "death": "97",
+            "name": "University Hospital Coventry",
+            "image": "images/coventry.jpg",
+            "link": "https://www.uhcw.nhs.uk/",
+            "phoneNumber": "024-7696-4000",
+            "coordinates": {
+                "latitude":52.408054,
+                "longitude":   -1.510556
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Clifford Bridge Rd",
+                "city": "coventry",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "University Hospital Coventry & Warwickshire",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Clifford Bridge Rd", "Coventry CV2 2DX"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "388",
+            "death": "83",
+            "link": "https://www.royalwolverhampton.nhs.uk/",
+            "name": "The Royal Wolverhampton NHS",
+            "image": "images/wolverhampton.jpg",
+            "phoneNumber": "01902 307999",
+            "coordinates": {
+                "latitude":52.591370,
+                "longitude":   -2.110748
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "12, Corporate Services Centre",
+                "city": "wolverhampton",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "The Royal Wolverhampton NHS Trust",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["12, Corporate Services Centre, New Cross Hospital", "Wolverhampton WV10 0QP"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "link": "",
-    "name": "Aston Mini Market",
-    "image": "images/legostore.jpg",
-    "phoneNumber": "(323) 634-7845",
-    "coordinates": {
-        "latitude":52.503939, 
-        "longitude": -1.885367
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "16 Sutton St",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B64TB"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "Aston Mini Market",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 8:00 PM",
-    "addressLines": ["16 Sutton St", "Birmingham B64TB"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-}, 
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "link": "http://www.dgft.nhs.uk/",
+            "id": "14753",
+            "cases": "379",
+            "death": "102",
+            "name": "Dudley Group NHS Foundation",
+            "image": "images/dudley.jpg",
+            "phoneNumber": "01384 456111",
+            "coordinates": {
+                "latitude":52.5,
+                "longitude":   -2.0833299
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Dudley",
+                "city": "dudley",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Dudley Group NHS Foundation Trust",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Dudley, city centre", "Dudley DY1 2HQ"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "name": "size?",
-    "image": "images/size.jpg",
-    "link": "https://www.size.co.uk/",
-    "phoneNumber": "0121 270 3353",
-    "coordinates": {
-        "latitude":52.484208, 
-        "longitude": -1.900130 
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "1-2 Lower Temple St",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B24JD"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "size?",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 8:00 PM",
-    "addressLines": ["1-2 Lower Temple St", ", Birmingham B24JD"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-}, 
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "461",
+            "death": "113",
+            "name": "Walsall Healthcare NHS",
+            "link":"https://www.walsallhealthcare.nhs.uk/",
+            "image": "images/walsall.jpg",
+            "phoneNumber": "01922 721172",
+            "coordinates": {
+                "latitude":52.5852814,
+                "longitude":   -1.98396
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Moat Rd",
+                "city": "walsall",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Walsall Healthcare NHS Trust",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Moat Rd", " Walsall WS2 9PS"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "link": "https://www.theperfumeshop.com/",
-    "name": "The Perfume Shop",
-    "image": "images/perfume.jpg",
-    "phoneNumber": "(323) 634-7845",
-    "coordinates": {
-        "latitude":52.484877, 
-        "longitude": -1.900130 
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "Unit U23, Grand Central",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B24BF"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "The Perfume Shop",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 8:00 PM",
-    "addressLines": ["Unit U23, Grand Central","Birmingham B24BF"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-}, 
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "260",
+            "death": "56",
+            "link":"https://www.swbh.nhs.uk/",
+            "name": "Sandwell General Hospital",
+            "image": "images/west_bromwich.jpg",
+            "phoneNumber": "0121 553 1831",
+            "coordinates": {
+                "latitude":52.5186806,
+                "longitude":   -1.9945
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Sandwell General Hospital",
+                "city": "west bromwich",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Sandwell General Hospital",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Sandwell General Hospital", "West Bromwich B71 4HJ"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "link": "https://www.pmtonline.co.uk/stores/birmingham/",
-    "name": "PMT Birmingham",
-    "image": "images/pmt.jpg",
-    "phoneNumber": "0121 359 5056",
-    "coordinates": {
-        "latitude":52.482076, 
-        "longitude": -1.875754 
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "Unit 4, Trident Retail Park, 6 Westley St",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B94EH"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "PMT Birmingham",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 8:00 PM",
-    "addressLines": ["Unit 4, Trident Retail Park, 6 Westley St", "Birmingham B94EH"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-}, 
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "284",
+            "death": "77",
+            "name": "Solihull Hospital",
+            "link":"https://hgs.uhb.nhs.uk/solihull-hospital/",
+            "image": "images/solihull.jpg",
+            "phoneNumber": "0121 424 2000",
+            "coordinates": {
+                "latitude": 52.41426,
+                "longitude":   -1.78094
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Lode Ln, Solihull",
+                "city": "solihull",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Solihull Hospital",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Lode Ln", "Solihull B91 2JL"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "link": "https://www.mylahore.co.uk/",
-    "name": "Mylahore Cafe Birmingham",
-    "image": "images/mylahore.jpg",
-    "phoneNumber": "0121 771 1117",
-    "coordinates": {
-        "latitude":52.471552, 
-        "longitude": -1.879112 
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "191-194 Bradford St",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B120JD"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "Mylahore Cafe Birmingham",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 8:00 PM",
-    "addressLines": ["191-194 Bradford St", "Birmingham B120JD"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-}, 
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "448",
+            "death": "201",
+            "link":"https://www.swbh.nhs.uk/",
+            "name": "Sandwell General Hospital",
+            "image": "images/sandwell.jpg",
+            "phoneNumber": "0121 553 1831",
+            "coordinates": {
+                "latitude":52.536167, 
+                "longitude":   -2.010793
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "West Bromwich",
+                "city": "sandwell",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Sandwell General Hospital",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["West Bromwich centre", "West Bromwich B71 4HJ"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
 
-{
-    "recommendation": {},
-    "storeNumber": "5577-1851",
-    "id": "14753",
-    "name": "The priory square phone shop",
-    "image": "images/phone.jpg",
-    "phoneNumber": "07772 090006",
-    "coordinates": {
-        "latitude":52.482454,
-        "longitude":  -1.893997 
-    },
-    "regulations": [],
-    "address": {
-        "streetAddressLine1": "The Oasis, Priory Square",
-        "city": "Birmingham",
-        "countrySubdivisionCode": "CA",
-        "countryCode": "UK",
-        "postalCode": "B47LG"
-    },
-    "timeZoneInfo": {
-        "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
-    },
-    "brandName": "The priory square phone shop",
-    "ownershipTypeCode": "CO",
-    "open": true,
-    "openStatusText": "Open until 8:00 PM",
-    "addressLines": ["The Oasis, Priory Square", "Birmingham B47LG"],
-    "mop": {
-        "ready": false,
-        "wait": null
-    },
-    
-    "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
-},  
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "349",
+            "death": "126",
+            "link":"https://hgs.uhb.nhs.uk/good-hope-hospital/",
+            "name": "Good Hope Hospital",
+            "image": "images/GH.jpg",
+            "phoneNumber": "0121 424 2000",
+            "coordinates": {
+                "latitude":52.570385,
+                "longitude":   -1.824042
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Rectory Rd",
+                "city": "sutton",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Good Hope Hospital",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Rectory Rd", "Sutton Coldfield B75 7RR"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        },  
+
+        {
+            "recommendation": {},
+            "storeNumber": "5577-1851",
+            "id": "14753",
+            "cases": "521",
+            "death": "101",
+            "link":"https://www.swbh.nhs.uk/midland-metropolitan-hospital/",
+            "name": "Midland Metropolitan Hospital",
+            "image": "images/smethwick.jpg",
+            "phoneNumber": "0121 507 5303",
+            "coordinates": {
+                "latitude":52.5,
+                "longitude":   -1.97305
+            },
+            "regulations": [],
+            "address": {
+                "streetAddressLine1": "Cranford St",
+                "city": "smethwick",
+                "countrySubdivisionCode": "CA",
+                "countryCode": "UK",
+                "postalCode": "B47LG"
+            },
+            "timeZoneInfo": {
+                "currentTimeOffset": -420,
+                "windowsTimeZoneId": "Pacific Standard Time",
+                "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+            },
+            "brandName": "Midland Metropolitan Hospital",
+            "ownershipTypeCode": "CO",
+            "open": true,
+            "openStatusText": "Open 24/24",
+            "addressLines": ["Cranford St", "Cranford St, Smethwick B66 2RT"],
+            "mop": {
+                "ready": false,
+                "wait": null
+            },
+            
+            "slug": "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644"
+        }
 ]
